@@ -1,0 +1,58 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+h2 {
+  font-size: 40px;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: linear-gradient(to right, #486cca, #ff4b2b);
+  margin-top: 10px;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  position: relative;
+}
+
+
+.background-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+   
+}
+
+
+.content {
+  position: relative;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.8); 
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  cursor: pointer;
+}
