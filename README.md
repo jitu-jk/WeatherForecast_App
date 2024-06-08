@@ -21,13 +21,13 @@ A `Weather App` using ReactJS, HTML5, CSS3 & Javascript with a PWA implementatio
 
 - #### Weather Details
 
-  <img src="./Screenshot (55).png" alt=""/> <br/>
+  <img src="./SS &Videos/Screenshot (55).png" alt=""/> <br/>
 
-  <img src="./Screenshot (56).png" alt=""/> <br/>
+  <img src="./SS &Videos/Screenshot (56).png" alt=""/> <br/>
 
-  <img src="./Screenshot (57).png" alt=""/> <br/>
+  <img src="./SS &Videos/Screenshot (57).png" alt=""/> <br/>
 
-  <img src="./Screenshot (58).png" alt=""/> <br/>
+  <img src="./SS &Videos/Screenshot (58).png" alt=""/> <br/>
   <br>
 
 ## Dev Dependencies
