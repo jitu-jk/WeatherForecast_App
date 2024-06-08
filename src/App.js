@@ -14,11 +14,12 @@ function App() {
   };
 
   return (
+ 
     <div className="App">
-      {/* Background Video Element */}
+     
       <video autoPlay loop muted className="background-video">
         <source src="https://videos.pexels.com/video-files/856463/856463-hd_1280_720_30fps.mp4" type="video/mp4" />
-        {/* Add additional source tags for other formats if needed */}
+       
         Your browser does not support the video tag.
       </video>
 
@@ -29,6 +30,7 @@ function App() {
         {weatherData && <WeatherDisplay weatherData={[weatherData]} />}
       </div>
     </div>
+    
   );
 }
 
