@@ -1,3 +1,56 @@
+<h1 align="center"> Weather Forecast App </h1>
+  <p align="center">
+    <a href="https://jitu-jk.github.io/WeatherForecast_App/"> <b> Live Site </b></a> </br> </br>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#dev-dependencies">Dev Dependencies</a></li>
+    <li><a href="#contact">Contact</a></li>  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+A `Weather App` using ReactJS, HTML5, CSS3 & Javascript with a PWA implementation. OpenWeather Map Api is used here. We can fetch current weather details of any part of the world.
+
+- #### Weather Details
+
+  <img src="./Screenshot (55).png" alt=""/> <br/>
+
+  <img src="./Screenshot (56).png" alt=""/> <br/>
+
+  <img src="./Screenshot (57).png" alt=""/> <br/>
+
+  <img src="./Screenshot (58).png" alt=""/> <br/>
+  <br>
+
+## Dev Dependencies
+
+- [React JS](https://legacy.reactjs.org/docs/getting-started.html)
+- Javascript
+
+<!-- CONTACT -->
+
+## Contact
+
+Project Link: [https://jitu-jk.github.io/WeatherForecast_App](https://jitu-jk.github.io/WeatherForecast_App/)<br/>
+LinkedIn - [Jitesh kumar](https://www.linkedin.com/in/jitesh-kumar-183a4a19b/)<br/>
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
