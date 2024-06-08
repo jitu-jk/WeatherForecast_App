@@ -1,6 +1,6 @@
 <h1 align="center"> Weather Forecast App </h1>
   <p align="center">
-    <a href="https://jitu-jk.github.io/WeatherForecast_App/"> <b> Live Site </b></a> </br> </br>
+    <a href="https://jitu-jk.github.io/weather/"> <b> Live Site </b></a> </br> </br>
   </p>
 </p>
 
