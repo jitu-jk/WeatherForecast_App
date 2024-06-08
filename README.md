@@ -29,7 +29,7 @@ A `Weather App` using ReactJS, HTML5, CSS3 & Javascript with a PWA implementatio
 
   <img src="./SS &Videos/Screenshot (58).png" alt=""/> <br/>
 
-  <source src="./SS &Videos/React App - Google Chrome 2024-06-08 23-53-10.mp4" type="video/mp4">
+ 
   <br>
 
 ## Dev Dependencies
